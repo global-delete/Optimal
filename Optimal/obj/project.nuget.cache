@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZ3CxYAh5wS5ugjYe0mEocvGcW74i2lRv4ratXIn3KE7aQduIG5VtnibaHcZbx1sfMcm6Y1uTnClDJYg7ZDj/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Марат\\Desktop\\Новая папка\\Optimal\\Optimal\\Optimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Марат\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Марат\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Марат\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Марат\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
